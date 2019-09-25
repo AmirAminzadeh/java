@@ -1,2 +1,2 @@
 # java
-workShop1
+workShop1 and another WorkShops
